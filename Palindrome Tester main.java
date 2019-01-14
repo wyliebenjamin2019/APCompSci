@@ -10,7 +10,7 @@ public class Main {
         }
     }
     public static boolean palTester(String palindrome) {
-        palindrome = removal(palindrome);
+        palindrome = characterTest(palindrome);
         String lap = "";
         int len = palindrome.length() - 1;
         for (int i = 0; i < palindrome.length(); i++) {
@@ -18,7 +18,7 @@ public class Main {
         }
         return palindrome.equalsIgnoreCase(lap);
     }
-    public static String removal(String pal) {
+    public static String characterTest(String pal) {
         String newPal = "";
         for (int i = 0; i < pal.length(); i++) {
             if ((pal.charAt(i) == ' ') || (pal.charAt(i) == '.') ||(pal.charAt(i) == ',') || (pal.charAt(i) == '?') || (pal.charAt(i) == '!') || (pal.charAt(i) == ':') || (pal.charAt(i) == ';')) {
