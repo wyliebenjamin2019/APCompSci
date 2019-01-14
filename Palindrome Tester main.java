@@ -1,4 +1,3 @@
-
 public class Main {
 
     public static void main(String[] args) {
@@ -10,14 +9,14 @@ public class Main {
             System.out.println(" ");
         }
     }
-    public static boolean palTester(String pal) {
-        pal = removal(pal);
+    public static boolean palTester(String palindrome) {
+        palindrome = removal(palindrome);
         String lap = "";
-        int len = pal.length() - 1;
-        for (int i = 0; i < pal.length(); i++) {
-            lap += pal.charAt(len - i);
+        int len = palindrome.length() - 1;
+        for (int i = 0; i < palindrome.length(); i++) {
+            lap += palindrome.charAt(len - i);
         }
-        return pal.equalsIgnoreCase(lap);
+        return palindrome.equalsIgnoreCase(lap);
     }
     public static String removal(String pal) {
         String newPal = "";
