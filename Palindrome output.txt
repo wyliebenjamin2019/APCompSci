@@ -1,0 +1,21 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=50554:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bwyli\IdeaProjects\Ben\out\production\Ben Main
+
+"Palindrome" is not a palindrome. 
+
+"Civic" is a palindrome. 
+
+"Radar" is a palindrome. 
+
+"Level" is a palindrome. 
+
+"Eva, can I stab bats in a cave?" is a palindrome. 
+
+"A man, a plan, a canal, Panama" is a palindrome. 
+
+"Mr. Owl ate my metal worm" is a palindrome. 
+
+"Never odd or even" is a palindrome. 
+
+"Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod." is a palindrome. 
+
+Process finished with exit code 0
