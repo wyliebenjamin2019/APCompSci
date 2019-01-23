@@ -1,0 +1,27 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=52279:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bwyli\IdeaProjects\Election\out\production\Election Main
+Votes for Mordy Golding: 70
+Votes for Shira Gotshalk: 61
+Votes for Stephanie Evans: 54
+Votes for Ray Villalobos: 57
+President: Mordy Golding
+
+Votes for Dona Sarkar: 66
+Votes for Tyler Ahn: 64
+Votes for Joe Camp: 57
+Votes for Brandon LeBlanc: 55
+Vice President: Dona Sarkar
+
+Votes for Jason Howard: 66
+Votes for Nikki Rubino: 64
+Votes for Peggy Fisher: 53
+Votes for Neil Edde: 59
+Secretary: Jason Howard
+
+Votes for David Gassnar: 60
+Votes for Sharon Bennett: 50
+Votes for Walt Ritscher: 67
+Votes for Heather Hurley: 65
+Treasurer: Walt Ritscher
+
+
+Process finished with exit code 0
