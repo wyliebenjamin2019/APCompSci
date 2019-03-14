@@ -1,0 +1,43 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=60413:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bwyli\IdeaProjects\PVPBattleground\out\production\PVPBattleground Main
+Doug, a Fighter:
+CON:  12 
+ HP:  66/ 66
+ MP:   0/  0
+STR:  21
+INT:  10
+AGI:   9
+
+There are, 1 characters
+
+Ben, a Paladin:
+CON:  14 
+ WIS:  14 
+ HP:  40/ 40
+ MP:  47/ 47
+STR:  12
+INT:  19
+AGI:   7
+
+There are, 2 characters
+
+Dustin, a Priest:
+CHA:  16 
+ HP:  12/ 12
+ MP:  52/ 52
+STR:  12
+INT:  20
+AGI:  13
+
+There are, 3 characters
+
+Alex, a Mage:
+WIS:  13 
+ HP:   9/  9
+ MP:  42/ 42
+STR:   9
+INT:  16
+AGI:  14
+
+There are, 4 characters
+
+Process finished with exit code 0
